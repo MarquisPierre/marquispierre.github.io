@@ -1,0 +1,108 @@
+/*Navigation bar and links*/
+.linkStyle{
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  border-right: 1px solid #bbb;
+}
+
+.linkStyle:hover {
+  background-color: #111;
+}
+
+.nav{
+  overflow: hidden;
+  background-color: #092327;
+}
+
+.active {
+  background-color: #0B5351;
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  border-right: 1px solid #bbb;
+}
+/**********************************/
+
+
+.me-img{
+  border-radius: 35px;
+  padding: 20px; 
+  width: 400px;
+  height: 400px; 
+}
+  
+
+/*Containers*/
+.profile-container{
+  background-color: #ffffff;
+  margin: auto;
+  width: 90%;
+  }
+
+
+
+
+/*Paragraph*/
+.paragraph {
+  margin: auto;
+  width: 50%;
+  border: 3px solid #00A9A5;
+  padding: 10px;
+}
+
+/*skills and edcucation*/
+.resume{
+    
+  margin: 60px;    
+}
+.resume h3 {
+    margin-left: 20px;
+     padding-top:10px;
+}
+.resume p{
+   margin: 10px;
+   padding: 10px
+} 
+.marg{
+   margin: 10px;
+}
+
+
+
+/* nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+} */
+
+/* .linkStyle {
+  float: left;
+}
+
+nav{
+  display: block;
+  color: white;
+  text-align:left;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.linkStyle{
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  font-size: 85px;
+  padding: 14px 16px;
+  text-decoration: none;
+} */
+/* Change the link color to #111 (black) on hover */
