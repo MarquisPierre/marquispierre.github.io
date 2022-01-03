@@ -9,10 +9,7 @@ import { AnimationWrapper } from 'react-hover-animation'
 export default function Home (){
   return(
 
-    
-
-    <div >
-      
+    <div>
     <nav className="nav">
     
       <Link className="active" to="/">Home</Link>
