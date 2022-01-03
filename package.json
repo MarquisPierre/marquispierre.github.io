@@ -1,8 +1,8 @@
-{
+{ 
+   "homepage": "http://marquispierre/marquispierre.github.io",
   "name": "marquispierre.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yourUserName.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
@@ -15,8 +15,8 @@
     
   },
   "scripts": {
-    "predeploy": "yarn run build",
-    "deploy": "gh-pages -b master -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
