@@ -1,5 +1,5 @@
-{ 
-  "homepage": "https://marquispierre.github.io/my-app",
+{
+  "homepage": "http://marquispierre.github.io/marquispierre.github.io",
   "name": "marquispierre.github.io",
   "version": "0.1.0",
   "private": true,
@@ -12,7 +12,6 @@
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0",
     "web-vitals": "^2.1.2"
-    
   },
   "scripts": {
     "predeploy": "npm run build",
